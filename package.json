@@ -1,0 +1,37 @@
+{
+  "name": "scientific-notation",
+  "version": "1.0.0",
+  "description": "Parses note names in Scientific pitch notation",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saebekassebil/scientific-notation.git"
+  },
+  "keywords": [
+    "scientific",
+    "pitch",
+    "notation",
+    "music",
+    "theory",
+    "teoria"
+  ],
+  "author": {
+    "name": "Jakob Miland <saebekassebil>",
+    "email": "saebekassebil@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saebekassebil/scientific-notation/issues"
+  },
+  "homepage": "https://github.com/saebekassebil/scientific-notation",
+  "dependencies": {
+    "accidental-value": "^1.0.0",
+    "notecoord": "^1.0.1"
+  },
+  "devDependencies": {
+    "tape": "^2.13.3"
+  }
+}
