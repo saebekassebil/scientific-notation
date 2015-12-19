@@ -1,6 +1,6 @@
 {
   "name": "scientific-notation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parses note names in Scientific pitch notation",
   "main": "index.js",
   "scripts": {
